@@ -38,3 +38,7 @@ p {
 .nyc {
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
 }
+
+h3.nyc {
+  color: white;
+}
